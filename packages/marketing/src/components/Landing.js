@@ -128,7 +128,7 @@ export default function Album() {
                     </Typography>
                     <Typography>
                       This is a media card. You can use this section to describe
-                      the content.
+                      the content!
                     </Typography>
                   </CardContent>
                   <CardActions>
@@ -156,7 +156,7 @@ export default function Album() {
           color="textSecondary"
           component="p"
         >
-          Something here to give the footer a purpose! I want to test it
+          Something here to give the footer a purpose!
         </Typography>
         <Copyright />
       </footer>
